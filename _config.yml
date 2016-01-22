@@ -1,0 +1,28 @@
+name: Test physi
+favicon: null
+layout_spectrum: 0.019349202746525407
+typography_spectrum: 0.7672898380551487
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6628161382395774
+  lightness: 0.7644395218230784
+  saturation: 0.7021667077206075
+  rhythmicContrast: 0.8503611988853663
+purpose: []
